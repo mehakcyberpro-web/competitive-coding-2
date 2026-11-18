@@ -18,4 +18,24 @@ batch :- 24BCY2 ntpp A
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mehakcyberpro-web/competitive-coding-2/tree/master/0258-add-digits) |
+## Array
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/mehakcyberpro-web/competitive-coding-2/tree/master/0322-coin-change) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/mehakcyberpro-web/competitive-coding-2/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/mehakcyberpro-web/competitive-coding-2/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/mehakcyberpro-web/competitive-coding-2/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/mehakcyberpro-web/competitive-coding-2/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
