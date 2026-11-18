@@ -30,6 +30,7 @@ batch :- 24BCY2 ntpp A
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/mehakcyberpro-web/competitive-coding-2/tree/master/0322-coin-change) |
+| [1971-find-if-path-exists-in-graph](https://github.com/mehakcyberpro-web/competitive-coding-2/tree/master/1971-find-if-path-exists-in-graph) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -38,4 +39,16 @@ batch :- 24BCY2 ntpp A
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/mehakcyberpro-web/competitive-coding-2/tree/master/0322-coin-change) |
+## Depth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/mehakcyberpro-web/competitive-coding-2/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/mehakcyberpro-web/competitive-coding-2/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/mehakcyberpro-web/competitive-coding-2/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
