@@ -21,6 +21,7 @@ batch :- 24BCY2 ntpp A
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mehakcyberpro-web/competitive-coding-2/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/mehakcyberpro-web/competitive-coding-2/tree/master/0322-coin-change) |
 ## Dynamic Programming
 |  |
@@ -29,6 +30,7 @@ batch :- 24BCY2 ntpp A
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mehakcyberpro-web/competitive-coding-2/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/mehakcyberpro-web/competitive-coding-2/tree/master/0322-coin-change) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mehakcyberpro-web/competitive-coding-2/tree/master/1971-find-if-path-exists-in-graph) |
 ## Knapsack Problem
@@ -42,13 +44,19 @@ batch :- 24BCY2 ntpp A
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mehakcyberpro-web/competitive-coding-2/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mehakcyberpro-web/competitive-coding-2/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mehakcyberpro-web/competitive-coding-2/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mehakcyberpro-web/competitive-coding-2/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/mehakcyberpro-web/competitive-coding-2/tree/master/1971-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/mehakcyberpro-web/competitive-coding-2/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
